@@ -61,14 +61,6 @@ Yes, both options can be enabled in the widget settings.
 
 ---
 
-## Screenshots
-
-1. Elementor widget settings – post type, layout, custom fields.
-2. Frontend grid layout – 3 columns with images, excerpts, read more.
-3. Pagination in action on category listing.
-
----
-
 ## Changelog
 
 ### 1.0.0
@@ -91,6 +83,6 @@ This plugin is licensed under the [GPLv2 or later](https://www.gnu.org/licenses/
 
 ## Author
 
-Developed by [Naveen Gaur](http://github.com/iamgaur7)
+Developed by [Naveen Gaur](https://techwithnavi.com/)
 
 Contributions, issues, and feature requests welcome!
